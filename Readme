@@ -1,0 +1,54 @@
+#### Readme
+
+Tugas Akhir Pelatihan VSGA JWD Kelas B
+
+#### KELOMPOK 4
+
+Moh. Alif Zidan Fadhilah
+Herdiyanto Pamungkas
+Elang Mochamad Riefki Ardian
+Said Muhammad Wildan
+Teneshya Lidia Putri
+
+#### About Projects
+
+\*\* Program Sistem Informasi Perpustakaan
+
+Project ini mengenai sistem informasi perpustakaan dimana didalamnya terdapat sistem peminjaman dan pengembalian yang hanya dapat diakses oleh petugas atau admin perpustakaan.
+Fitur :
+
+1. Sistem Login
+2. Sistem Sign Up
+3. Admin Roles and Views
+4. CRUD Kategori
+5. CRUD Buku
+6. CRUD Anggota
+7. CRUD Peminjaman
+8. CRUD Pengembalian
+9. Sistem Denda
+10. Sistem Logout
+
+#### Built With
+
+\*\* This Project Use :
+
+1. HTML
+2. CSS
+3. Javascript
+4. PHP
+5. SQL
+
+#### Getting Started
+
+Default Account :
+username = admin
+password = admin
+
+#### Installation
+
+1. Install XAMPP atau sejenisnya
+2. Export SQL ke Mysql
+3. Pastikan folder project terdapat di dalam folder htdocs
+4. Akses web dengan server lokal yaitu 'localhost/VSGA_Library'
+
+##################################
